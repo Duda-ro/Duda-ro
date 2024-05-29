@@ -1,16 +1,15 @@
-## Hi there 👋
+## Bem vindos ao meu perfil 💙
 
-<!--
-**Duda-ro/Duda-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Maria Eduarda 
 
-Here are some ideas to get you started:
+- Estou estudando na [ALURA](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Entrar em contato comigo 📫
+
+mrodriguesoliveira99@gmail.com 
+
+[@mariaeduarda_r.o](https://www.instagram.com/mariaeduarda_r.o?igsh=cjRnbGVydW5oNG83)
+
+![](https://github.com/Duda-ro/Duda-ro/assets/171151420/543526cf-84c3-4bc7-8f74-91dd57c189d6)
